@@ -19,4 +19,4 @@ than copied from a course. The point is the muscle memory, not the YAML.
 
 ## Environment
 
-Local cluster (minikube / kind), `kubectl` from the terminal.
+K3s multi-node cluster (one control plane, two workers, see lab 01), `kubectl` from the terminal.
